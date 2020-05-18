@@ -1,0 +1,10 @@
+E:\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources (1)\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.deps.json
+E:\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources (1)\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.json
+E:\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources (1)\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.dev.json
+E:\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources (1)\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.dll
+E:\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources (1)\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.pdb
+E:\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources (1)\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csprojAssemblyReference.cache
+E:\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources (1)\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfoInputs.cache
+E:\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources (1)\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfo.cs
+E:\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources (1)\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.dll
+E:\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources (1)\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ventcy\Desktop\New folder (2)\bin\Debug\netcoreapp2.1\SpaceStation.deps.json
+C:\Users\Ventcy\Desktop\New folder (2)\bin\Debug\netcoreapp2.1\SpaceStation.runtimeconfig.json
+C:\Users\Ventcy\Desktop\New folder (2)\bin\Debug\netcoreapp2.1\SpaceStation.runtimeconfig.dev.json
+C:\Users\Ventcy\Desktop\New folder (2)\bin\Debug\netcoreapp2.1\SpaceStation.dll
+C:\Users\Ventcy\Desktop\New folder (2)\bin\Debug\netcoreapp2.1\SpaceStation.pdb
+C:\Users\Ventcy\Desktop\New folder (2)\obj\Debug\netcoreapp2.1\SpaceStation.csprojAssemblyReference.cache
+C:\Users\Ventcy\Desktop\New folder (2)\obj\Debug\netcoreapp2.1\SpaceStation.AssemblyInfoInputs.cache
+C:\Users\Ventcy\Desktop\New folder (2)\obj\Debug\netcoreapp2.1\SpaceStation.AssemblyInfo.cs
+C:\Users\Ventcy\Desktop\New folder (2)\obj\Debug\netcoreapp2.1\SpaceStation.dll
+C:\Users\Ventcy\Desktop\New folder (2)\obj\Debug\netcoreapp2.1\SpaceStation.pdb
