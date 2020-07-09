@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29521.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scaffloadtest", "scaffloadtest\scaffloadtest.csproj", "{7029CFE6-921C-47C7-86C6-9A729BA1C580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7029CFE6-921C-47C7-86C6-9A729BA1C580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7029CFE6-921C-47C7-86C6-9A729BA1C580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7029CFE6-921C-47C7-86C6-9A729BA1C580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7029CFE6-921C-47C7-86C6-9A729BA1C580}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70694897-E3F4-4847-B2DF-E1A7BCF09C30}
+	EndGlobalSection
+EndGlobal
