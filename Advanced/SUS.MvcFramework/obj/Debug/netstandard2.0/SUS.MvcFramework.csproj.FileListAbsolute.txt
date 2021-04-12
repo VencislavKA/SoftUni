@@ -1,0 +1,12 @@
+C:\Users\Ventcy\Documents\GitHub\csharp-web\2020-Sept-Season\SUS\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.deps.json
+C:\Users\Ventcy\Documents\GitHub\csharp-web\2020-Sept-Season\SUS\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.dll
+C:\Users\Ventcy\Documents\GitHub\csharp-web\2020-Sept-Season\SUS\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.pdb
+C:\Users\Ventcy\Documents\GitHub\csharp-web\2020-Sept-Season\SUS\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\Ventcy\Documents\GitHub\csharp-web\2020-Sept-Season\SUS\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\Ventcy\Documents\GitHub\csharp-web\2020-Sept-Season\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csprojAssemblyReference.cache
+C:\Users\Ventcy\Documents\GitHub\csharp-web\2020-Sept-Season\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.AssemblyInfoInputs.cache
+C:\Users\Ventcy\Documents\GitHub\csharp-web\2020-Sept-Season\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.AssemblyInfo.cs
+C:\Users\Ventcy\Documents\GitHub\csharp-web\2020-Sept-Season\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csproj.CoreCompileInputs.cache
+C:\Users\Ventcy\Documents\GitHub\csharp-web\2020-Sept-Season\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csproj.CopyComplete
+C:\Users\Ventcy\Documents\GitHub\csharp-web\2020-Sept-Season\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.dll
+C:\Users\Ventcy\Documents\GitHub\csharp-web\2020-Sept-Season\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.pdb

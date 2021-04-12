@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rbWOWGQioZk8NcrNuXh+Pov6+w452bME6b6Ow7sh2j2dRbT+zpRecP4NBfqvCSS5sAqBLYhHZgFDt0qfMWwAfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ventcy\\Desktop\\New folder (3)\\SUS.HTTP\\SUS.HTTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ventcy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

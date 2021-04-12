@@ -1,0 +1,9 @@
+C:\Users\Ventcy\Desktop\exam prep\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.deps.json
+C:\Users\Ventcy\Desktop\exam prep\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\Ventcy\Desktop\exam prep\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\Ventcy\Desktop\exam prep\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csprojAssemblyReference.cache
+C:\Users\Ventcy\Desktop\exam prep\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfoInputs.cache
+C:\Users\Ventcy\Desktop\exam prep\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfo.cs
+C:\Users\Ventcy\Desktop\exam prep\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csproj.CoreCompileInputs.cache
+C:\Users\Ventcy\Desktop\exam prep\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\Ventcy\Desktop\exam prep\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.pdb

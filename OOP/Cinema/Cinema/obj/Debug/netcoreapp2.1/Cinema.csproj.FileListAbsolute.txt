@@ -1,0 +1,12 @@
+C:\Users\Ventcy\Desktop\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+C:\Users\Ventcy\Desktop\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+C:\Users\Ventcy\Desktop\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+C:\Users\Ventcy\Desktop\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Ventcy\Desktop\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+C:\Users\Ventcy\Desktop\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+C:\Users\Ventcy\Desktop\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+C:\Users\Ventcy\Desktop\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\Ventcy\Desktop\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+C:\Users\Ventcy\Desktop\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\Ventcy\Desktop\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb
+C:\Users\Ventcy\Desktop\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.genruntimeconfig.cache

@@ -15,11 +15,11 @@
 
 
 
---select CountryCode, COUNT(MountainId) as [MountainRanges] from MountainsCountries
---where CountryCode in ('US','RU','BG')
---group by CountryCode
+select CountryCode, COUNT(MountainId) as [MountainRanges] from MountainsCountries
+where CountryCode in ('US','RU','BG')
+group by CountryCode
 
---use SoftUni
+use SoftUni
 
 
 --select e.FirstName,e.LastName,e.HireDate,d.[Name] as DeptName from  Employees as e 
